@@ -1,0 +1,6 @@
+path: /home/c97568bz/Documents/super_smart_ai/c_dataset
+train: 'train/images'
+val: 'validate/images'
+# class names
+names:
+  0: 'crack'
